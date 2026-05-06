@@ -5,7 +5,7 @@ This repository is a structured collection of problems, concepts, and implementa
 
 ---
 
-#📌 About This Repository
+# 📌 About This Repository
 
 This repo documents my progress in learning DSA step by step — from fundamentals to advanced topics.
 The goal is simple: consistency + clarity + clean code.
