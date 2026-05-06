@@ -13,15 +13,5 @@ The goal is simple: consistency + clarity + clean code.
 ---
 
 # 🧠 Topics Covered
-🔹 Arrays & Strings
-🔹 Linked List
-🔹 Stack & Queue
-🔹 Recursion & Backtracking
-🔹 Searching & Sorting
-🔹 Hashing
-🔹 Trees & Binary Trees
-🔹 Binary Search Trees
-🔹 Heaps & Priority Queue
-🔹 Graphs
-🔹 Dynamic Programming
-🔹 Greedy Algorithms
+Array 
+String
