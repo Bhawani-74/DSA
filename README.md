@@ -13,5 +13,5 @@ The goal is simple: consistency + clarity + clean code.
 ---
 
 # 🧠 Topics Covered
-Array 
-String
+1.Array
+2.String
