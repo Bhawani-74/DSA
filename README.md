@@ -9,3 +9,19 @@ This repository is a structured collection of problems, concepts, and implementa
 
 This repo documents my progress in learning DSA step by step — from fundamentals to advanced topics.
 The goal is simple: consistency + clarity + clean code.
+
+---
+
+# 🧠 Topics Covered
+🔹 Arrays & Strings
+🔹 Linked List
+🔹 Stack & Queue
+🔹 Recursion & Backtracking
+🔹 Searching & Sorting
+🔹 Hashing
+🔹 Trees & Binary Trees
+🔹 Binary Search Trees
+🔹 Heaps & Priority Queue
+🔹 Graphs
+🔹 Dynamic Programming
+🔹 Greedy Algorithms
